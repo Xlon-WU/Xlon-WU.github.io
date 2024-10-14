@@ -42,7 +42,7 @@
     <link href="http://example.com/2024/10/13/rss/"/>
     <id>http://example.com/2024/10/13/rss/</id>
     <published>2024-10-13T12:00:00.000Z</published>
-    <updated>2024-10-14T13:54:32.878Z</updated>
+    <updated>2024-10-14T14:05:32.250Z</updated>
     
     <content type="html"><![CDATA[<p>RSS 阅读器建议使用 <a class="link"   href="https://apps.microsoft.com/detail/9p71fc94lrh8?hl=zh-cn&gl=CN" >Fluent Reader <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p><p>本站 RSS 订阅地址：</p><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://xlon-wu.netlify.app/atom.xml</span><br></pre></td></tr></table></figure></div><p>将其复制并添加到 RSS 阅读器的信息源中即可阅读。</p><p>若显示无法连接请多试几遍，如果试了 5 遍以上还是不行的话可以尝试使用下面的链接：</p><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://xlon-wu.github.io/atom.xml</span><br></pre></td></tr></table></figure></div>]]></content>
     
